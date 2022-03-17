@@ -21,7 +21,7 @@ if the combination is a winning one, then write the line indexes + the winning a
 to a map for accumulation.
 
 ## Config
-###H ow to use slotMachine.properties
+### How to use slotMachine.properties
 I mentioned before the config file, now I am going to further explain and mention some caveats
 #### Its required currently to abstain from whitespaces in the config file
 #### *reels=reel1,reel2,reel3*
